@@ -3,7 +3,17 @@
 
 ![image](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/dea43ef5-17ed-4c86-a66c-39ae459dc308)
 
+## Team members:
 
+   CB.EN.U4CSE21301 Aaditya E.R menon
+   
+   CB.EN.U4CSE21310 Dhayanandh
+   
+   CB.EN.U4CSE21325 K Sai tharun aditya
+   
+   CB.EN.U4CSE21327 Karthie krishna k
+   
+   CB.EN.U4CSE21331 Leonal robin d
 ### Introduction:
 
 The Detective Dustbin is an intelligent waste management system designed to provide automated functionality and security features. It employs various components, including a Raspberry Pi Pico microcontroller, ultrasonic sensors, motion sensors, a buzzer, LED, and a Bluetooth module (HC-05).
