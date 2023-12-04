@@ -1,41 +1,30 @@
-## Team-Kit-Kat
-# Detective dustbin
+# Team-Kit-Kat
+## Detective Dustbin
 
-![image](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/dea43ef5-17ed-4c86-a66c-39ae459dc308)
+![Detective Dustbin](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/dea43ef5-17ed-4c86-a66c-39ae459dc308)
 
-## Team members:
+### Team Members:
 
-   CB.EN.U4CSE21301 Aaditya E.R menon
-   
-   CB.EN.U4CSE21310 Dhayanandh
-   
-   CB.EN.U4CSE21325 K Sai tharun aditya
-   
-   CB.EN.U4CSE21327 Karthie krishna k
-   
-   CB.EN.U4CSE21331 Leonal robin d
+- CB.EN.U4CSE21301 Aaditya E.R Menon
+- CB.EN.U4CSE21310 Dhayanandh
+- CB.EN.U4CSE21325 K Sai Tharun Aditya
+- CB.EN.U4CSE21327 Karthie Krishna K
+- CB.EN.U4CSE21331 Leonal Robin D
+
 ### Introduction:
 
 The Detective Dustbin is an intelligent waste management system designed to provide automated functionality and security features. It employs various components, including a Raspberry Pi Pico microcontroller, ultrasonic sensors, motion sensors, a buzzer, LED, and a Bluetooth module (HC-05).
 
 ### Components:
 
-Raspberry Pi Pico - 1
-
-Ultrasonic Sensor - 2
-
-Motion Sensor - 1
-
-Buzzer - 1
-
-LED - 1
-
-Bluetooth Module HC-05 - 1
-
-
+- Raspberry Pi Pico - 1
+- Ultrasonic Sensor - 2
+- Motion Sensor - 1
+- Buzzer - 1
+- LED - 1
+- Bluetooth Module HC-05 - 1
 
 ### Functionality:
-
 
 #### Automatic Open and Close:
 
@@ -55,24 +44,10 @@ The Bluetooth module (HC-05) enables remote control and monitoring. Users can sw
 
 ### Usage Instructions:
 
-
-#### Proximity Detection:
-
-Stand within 15cm of the dustbin to trigger automatic open-close functionality.
-Motion Detection:
-The motion sensor detects and alerts if anyone crosses in front of the dustbin.
-
-#### Quantity Measurement:
-
-The ultrasonic sensor measures the percentage of the dustbin's capacity filled.
-Bluetooth Control:
-
-
-#### Use the Bluetooth-connected mobile application to:
-
-Toggle the ultrasonic sensor on/off for automatic open-close.
-Receive motion detection alerts as notifications.
-
+- **Proximity Detection:** Stand within 15cm of the dustbin to trigger automatic open-close functionality.
+- **Motion Detection:** The motion sensor detects and alerts if anyone crosses in front of the dustbin.
+- **Quantity Measurement:** The ultrasonic sensor measures the percentage of the dustbin's capacity filled.
+- **Bluetooth Control:** Use the Bluetooth-connected mobile application to toggle the ultrasonic sensor on/off for automatic open-close and receive motion detection alerts as notifications.
 
 ### Conclusion:
 
