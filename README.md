@@ -24,6 +24,7 @@ The Detective Dustbin is an intelligent waste management system designed to prov
 - LED - 1
 - Bluetooth Module HC-05 - 1
 
+  
 ### Functionality:
 
 #### Automatic Open and Close:
