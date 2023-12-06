@@ -52,13 +52,23 @@ The Bluetooth module (HC-05) enables remote control and monitoring. Users can sw
 ### Pin number:
 
 #### for Raspberry pi pico:
+![WhatsApp Image 2023-12-06 at 23 36 06_f8d09c16](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/6a8e9105-78b7-45e3-a088-3f979f7bab66)
 
 #### for ultrasonic sensor:
+![WhatsApp Image 2023-12-06 at 23 38 35_2bc51f2d](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/10bf6c50-b2af-4005-a209-3346a8d01b59)
 
 #### for motion sensor:
+![WhatsApp Image 2023-12-06 at 23 39 42_e166f481](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/e6f8d103-54f1-42df-95ac-befba7e48ea3)
+
+#### Buzzer:
+![WhatsApp Image 2023-12-06 at 23 40 25_d3433ee2](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f4793156-fbd1-447a-8a30-f28e25eac407)
+
 
 ### Conclusion:
 
 The Detective Dustbin combines automation and security features to enhance waste management. With its advanced sensors and Bluetooth connectivity, it provides a smart solution for homes, ensuring convenience and safety in waste disposal.
+
+### You tube link:
+https://youtu.be/30gV1dWLi8w
 
 
