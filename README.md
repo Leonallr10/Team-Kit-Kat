@@ -64,6 +64,8 @@ The Bluetooth module (HC-05) enables remote control and monitoring. Users can sw
 #### Buzzer:
 ![WhatsApp Image 2023-12-06 at 23 40 25_d3433ee2](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f4793156-fbd1-447a-8a30-f28e25eac407)
 
+#### Bluetooth module:
+![WhatsApp Image 2023-12-07 at 00 16 57_a0207f14](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f387224f-430e-4088-86f1-d0e94322f124)
 
 ### Conclusion:
 
