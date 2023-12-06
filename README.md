@@ -3,6 +3,21 @@
 
 ![Detective Dustbin](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/dea43ef5-17ed-4c86-a66c-39ae459dc308)
 
+### Table of Contents
+- [Team Members](#team-members)
+- [Introduction](#introduction)
+- [Components](#components)
+- [Functionality](#functionality)
+  - [Automatic Open and Close](#automatic-open-and-close)
+  - [Motion Detection](#motion-detection)
+  - [Quantity Measurement](#quantity-measurement)
+  - [Bluetooth Connectivity](#bluetooth-connectivity)
+- [Usage Instructions](#usage-instructions)
+- [Pin Numbers](#pin-numbers)
+- [Software Used](#software-used)
+- [Conclusion](#conclusion)
+- [YouTube Link](#youtube-link)
+
 ### Team Members:
 
 - CB.EN.U4CSE21301 Aaditya E.R Menon
@@ -24,7 +39,6 @@ The Detective Dustbin is an intelligent waste management system designed to prov
 - LED - 1
 - Bluetooth Module HC-05 - 1
 
-  
 ### Functionality:
 
 #### Automatic Open and Close:
@@ -50,28 +64,47 @@ The Bluetooth module (HC-05) enables remote control and monitoring. Users can sw
 - **Quantity Measurement:** The ultrasonic sensor measures the percentage of the dustbin's capacity filled.
 - **Bluetooth Control:** Use the Bluetooth-connected mobile application to toggle the ultrasonic sensor on/off for automatic open-close and receive motion detection alerts as notifications.
 
-### Pin number:
+### Pin Numbers:
 
-#### for Raspberry pi pico:
-![WhatsApp Image 2023-12-06 at 23 36 06_f8d09c16](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/6a8e9105-78b7-45e3-a088-3f979f7bab66)
+#### Raspberry Pi Pico:
+![Raspberry Pi Pico](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/6a8e9105-78b7-45e3-a088-3f979f7bab66)
 
-#### for ultrasonic sensor:
-![WhatsApp Image 2023-12-06 at 23 38 35_2bc51f2d](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/10bf6c50-b2af-4005-a209-3346a8d01b59)
+#### Ultrasonic Sensor:
+![Ultrasonic Sensor](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/10bf6c50-b2af-4005-a209-3346a8d01b59)
 
-#### for motion sensor:
-![WhatsApp Image 2023-12-06 at 23 39 42_e166f481](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/e6f8d103-54f1-42df-95ac-befba7e48ea3)
+#### Motion Sensor:
+![Motion Sensor](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/e6f8d103-54f1-42df-95ac-befba7e48ea3)
 
 #### Buzzer:
-![WhatsApp Image 2023-12-06 at 23 40 25_d3433ee2](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f4793156-fbd1-447a-8a30-f28e25eac407)
+![Buzzer](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f4793156-fbd1-447a-8a30-f28e25eac407)
 
-#### Bluetooth module:
-![WhatsApp Image 2023-12-07 at 00 16 57_a0207f14](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f387224f-430e-4088-86f1-d0e94322f124)
+#### Bluetooth Module:
+![Bluetooth Module](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f387224f-430e-4088-86f1-d0e94322f124)
+
+### Software Used:
+
+#### Bluetooth Terminal App (Android):
+
+- **App:** Android Bluetooth Terminal App
+- **Usage:** Control the dustbin remotely and receive Bluetooth notifications.
+- **Download:** [Android Bluetooth Terminal App](https://appinventor.mit.edu/)
+
+#### MIT App Inventor:
+
+- **Platform:** MIT App Inventor
+- **Link:** [MIT App Inventor on Google Play](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&pcampaignid=web_share)
+- **Purpose:** Develop custom mobile applications for Bluetooth control and data reception.
+
+#### Raspberry Pi Pico Python Software:
+
+- **Language:** Python
+- **Function:** Enables programming and integration of the Raspberry Pi Pico microcontroller.
+- **Note:** Ensure proper configuration for seamless communication with sensors and Bluetooth module.
+- **Link:** [Getting Started with Raspberry Pi Pico (Python)](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2)
 
 ### Conclusion:
 
 The Detective Dustbin combines automation and security features to enhance waste management. With its advanced sensors and Bluetooth connectivity, it provides a smart solution for homes, ensuring convenience and safety in waste disposal.
 
-### You tube link:
-https://youtu.be/30gV1dWLi8w
-
-
+### YouTube Link:
+[Watch the Detective Dustbin in action](https://youtu.be/30gV1dWLi8w)
