@@ -49,6 +49,16 @@ The Bluetooth module (HC-05) enables remote control and monitoring. Users can sw
 - **Quantity Measurement:** The ultrasonic sensor measures the percentage of the dustbin's capacity filled.
 - **Bluetooth Control:** Use the Bluetooth-connected mobile application to toggle the ultrasonic sensor on/off for automatic open-close and receive motion detection alerts as notifications.
 
+### Pin number:
+
+#### for Raspberry pi pico:
+
+#### for ultrasonic sensor:
+
+#### for motion sensor:
+
 ### Conclusion:
 
 The Detective Dustbin combines automation and security features to enhance waste management. With its advanced sensors and Bluetooth connectivity, it provides a smart solution for homes, ensuring convenience and safety in waste disposal.
+
+
