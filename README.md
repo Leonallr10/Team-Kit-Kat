@@ -82,6 +82,10 @@ The Bluetooth module (HC-05) enables remote control and monitoring. Users can sw
 #### Bluetooth Module:
 ![Bluetooth Module](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/f387224f-430e-4088-86f1-d0e94322f124)
 
+#### Servo motor:
+![WhatsApp Image 2023-12-07 at 14 28 01_fc144ebf](https://github.com/Leonallr10/Team-Kit-Kat/assets/118210551/79a0bc3f-d9fa-416b-9ce5-6e60a663ccc6)
+
+
 ### Software Used:
 
 #### Bluetooth Terminal App (Android):
